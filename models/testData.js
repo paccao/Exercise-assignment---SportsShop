@@ -1,7 +1,7 @@
 const products = [
   {
     id: "1",
-    productName: "boll5",
+    productName: "bollar",
     details: "detta är en boll",
     price: 1337,
     inStock: 5,
